@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://18.206.176.208";  // For reverse proxy it is mandatory so dont change
+const API_BASE_URL = "http://18.206.176.208:84";  // For reverse proxy it is mandatory so dont change
 
 //const API_BASE_URL = "http://api.rittik.shop"
 //const API_BASE_URL = "http://backend.515800584282.realhandsonlabs.net";
